@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Привет, я Никита 👋  
+  Привет, я Никита   
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
