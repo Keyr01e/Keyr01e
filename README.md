@@ -40,12 +40,3 @@
 </p>
 
 ---
-
-### 📫 Контакты
-<p align="center">
-  📧 <a href="mailto:12345a04@gmail.com">12345a04@gmail.com</a>  
-  •  
-  💬 <a href="https://t.me/@keyro1e">Telegram</a>  
-  •  
-  🌐 <a href="https://github.com/Keyr01e">GitHub</a>
-</p>
