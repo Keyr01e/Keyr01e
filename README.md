@@ -28,15 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyr01e&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
 
-### 🚀 Немного анимации
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyr01e&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Keyr01e/Keyr01e/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
